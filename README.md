@@ -5,9 +5,9 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 🔭 I'm Frontend at @warrenbrasil
+- 🔭 I'm Frontend at <a href="https://github.com/warrenbrasil">@warrenbrasil</a>
 - 🌱 I’m always learning about everything!
 - 💻 Programming languages: VUE js, JavaScritp and TypeScript
-- 👯 I'm an organizer of @railsgirls POA and @DjangoGirls Canoas
+- 👯 I'm an organizer of <a href="https://github.com/railsgirls">@railsgirls</a> POA and <a href="https://github.com/DjangoGirls">@DjangoGirls</a> Canoas
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I'm passionate about knowing places, I love tattoos and I love to eat and drink with friends
