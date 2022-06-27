@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 🔭 I'm Frontend at <a href="https://github.com/warrenbrasil">@warrenbrasil</a>
+- 🔭 I'm Frontend and Engineer Lead at <a href="https://github.com/warrenbrasil">@warrenbrasil</a>
 - 🌱 I’m always learning about everything!
 - 💻 Programming languages: VUE js, JavaScritp and TypeScript
 - 👯 I'm an organizer of <a href="https://github.com/railsgirls">@railsgirls</a> POA and <a href="https://github.com/DjangoGirls">@DjangoGirls</a> Canoas
