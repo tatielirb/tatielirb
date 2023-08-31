@@ -11,3 +11,4 @@
 - 👯 I'm an organizer of <a href="https://github.com/railsgirls">@railsgirls</a> POA and <a href="https://github.com/DjangoGirls">@DjangoGirls</a> Canoas
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I'm passionate about knowing places, I love tattoos and I love to eat and drink with friends
+- 🎒Countries I visited: 🇧🇷🇦🇷🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇪🇵🇹🇩🇪🇪🇸🇭🇷🇨🇱🇺🇸🇨🇦
